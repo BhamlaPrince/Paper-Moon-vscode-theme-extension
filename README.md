@@ -52,5 +52,5 @@ To get the best visual experience, you might want to tweak the following setting
 ```
 
 - GitHub: [@princekumar](https://github.com/BhamlaPrince)
-- LinkedIn: [Prince Kumar](www.linkedin.com/in/prince-kumar-342235237)
-- Twitter: [@yourtwitterhandle](https://x.com/BhamlaPrince)
+- LinkedIn: [Prince Kumar](https://www.linkedin.com/in/prince-kumar-342235237/)
+- Twitter: [@BhamlaPrince](https://x.com/BhamlaPrince)
