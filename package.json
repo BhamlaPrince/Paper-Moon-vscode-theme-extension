@@ -16,7 +16,12 @@
       {
         "label": "Paper Moon",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paper Moon-color-theme.json"
+        "path": "./themes/Paper Moon Dark-color-theme.json"
+      },
+      {
+        "label": "Paper Moon Light",
+        "uiTheme": "vs-light",
+        "path": "./themes/Paper Moon Light-color-theme.json"
       }
     ]
   },
