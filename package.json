@@ -2,7 +2,7 @@
   "name": "paper-moon",
   "displayName": "Paper Moon",
   "description": "A calm and elegant dark theme for VS Code inspired by moonlight aesthetics.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "PrinceBhamla",
   "engines": {
     "vscode": "^1.102.0"
