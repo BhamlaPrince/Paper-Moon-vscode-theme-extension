@@ -1,14 +1,16 @@
 {
   "name": "paper-moon",
   "displayName": "Paper Moon",
-  "description": "",
+  "description": "A calm and elegant dark theme for VS Code inspired by moonlight aesthetics.",
   "version": "0.0.1",
+  "publisher": "PrinceBhamla",
   "engines": {
     "vscode": "^1.102.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +19,19 @@
         "path": "./themes/Paper Moon-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BhamlaPrince/Paper-Moon-vscode-theme-extension.git"
+  },
+  "keywords": [
+    "theme",
+    "Green Theme",
+    "Dark Theme",
+    "Prince Bhamla"
+  ],
+  "bugs": {
+    "url": "https://github.com/BhamlaPrince/Paper-Moon-vscode-theme-extension/issues"
+  },
+  "homepage": "https://github.com/BhamlaPrince/Paper-Moon-vscode-theme-extension#readme"
 }

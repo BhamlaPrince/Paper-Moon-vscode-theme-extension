@@ -2,7 +2,7 @@
 
 **Paper Moon** is a soft, atmospheric Visual Studio Code theme designed to create a calm and focused coding environment. Inspired by muted natural tones and subtle contrasts, this theme blends legibility and elegance for long coding sessions—day or night.
 
-![Paper Moon Theme Screenshot](./img/Screenshot%202025-08-07%20015922.png)
+![Paper Moon Theme Screenshot](image.png)
 
 ---
 
